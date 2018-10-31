@@ -1,6 +1,5 @@
 package com.feicheng.scala.flink.office.example
 
-import org.apache.flink.api.common.typeinfo.TypeInformation
 import org.apache.flink.streaming.api.scala.StreamExecutionEnvironment
 import org.apache.flink.streaming.api.scala._
 /**
